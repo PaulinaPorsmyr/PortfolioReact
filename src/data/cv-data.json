@@ -1,0 +1,77 @@
+{
+  "name": "Paulina Porsmyr",
+  "title": "Fullstack .NET Student",
+  "intro": "Driven and creative Fullstack .NET student with a strong passion for backend development. Experienced in C#, APIs, databases, and system logic through various course projects. Currently seeking an internship where I can contribute to and evolve within a professional .NET environment.",
+  "links": {
+    "github": "https://github.com/PaulinaPorsmyr",
+    "linkedin": "https://www.linkedin.com/in/paulina-porsmyr-86b3768b/"
+  },
+  "languages": [
+    { "name": "Swedish", "level": "Native" },
+    { "name": "English", "level": "Fluent" },
+    { "name": "Spanish", "level": "Professional Working Proficiency" }
+  ],
+  "techStack": [
+    { "name": "HTML",       "category": "frontend" },
+    { "name": "CSS",        "category": "frontend" },
+    { "name": "React",      "category": "frontend" },
+    { "name": "JavaScript", "category": "frontend" },
+    { "name": "C#",         "category": "backend" },
+    { "name": ".NET Core",  "category": "backend" },
+    { "name": "ASP.NET",    "category": "backend" },
+    { "name": "REST API",   "category": "backend" },
+    { "name": "EF Core",    "category": "database" },
+    { "name": "SQL Server", "category": "database" },
+    { "name": "Git",        "category": "tool" },
+    { "name": "Scrum",      "category": "tool" },
+    { "name": "Agile",      "category": "tool" }
+  ],
+  "education": [
+    {
+      "school": "Chas Academy",
+      "degree": "Fullstack .NET",
+      "period": "Sep 2025 – June 2027",
+      "description": "Developing applications using C# and .NET, focusing on clean code, database modeling with Entity Framework, and API integration."
+    },
+    {
+      "school": "Linköping University",
+      "degree": "Elements of AI",
+      "period": "Jan 2026 – April 2026",
+      "description": "Neural Networks, AI, and Problem Solving."
+    },
+    {
+      "school": "Linköping University",
+      "degree": "Cybersecurity Fundamentals",
+      "period": "Jan 2026 – April 2026",
+      "description": "An introductory course covering fundamental cybersecurity concepts, risk analysis, and organizational threat assessment."
+    },
+    {
+      "school": "Stockholm University",
+      "degree": "Bachelor of Arts, Art History",
+      "period": "Sep 2019 – June 2022",
+      "description": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Producer",
+      "company": "MoliéreEnsemblen",
+      "period": "March 2024 – May 2025",
+      "description": "Responsible for CRM management, scheduling, project planning, and creative coordination across multiple systems."
+    },
+    {
+      "role": "Public Relations & Guest Services",
+      "company": "Royal Dramatic Theatre",
+      "period": "March 2023 – Present",
+      "description": ""
+    }
+  ],
+  "communityInvolvement": [
+    {
+      "role": "Volunteer Staff",
+      "organization": "Swetugg .NET Conference",
+      "period": "Feb 2026",
+      "description": "Assisted with event logistics, speaker support, and attendee management to ensure a smooth conference experience."
+    }
+  ]
+}

@@ -16,7 +16,7 @@ body {
   color: white;
 }
 
-
+/* ── Navbar ────────────────────────────────────────────────────────────── */
 
 nav.meny {
   display: flex;
@@ -66,6 +66,7 @@ nav.meny {
   padding-left: 0;
 }
 
+/* ── Main / layout ─────────────────────────────────────────────────────── */
 
 main {
   flex: 1;
@@ -78,7 +79,7 @@ main {
   width: 100%;
 }
 
-
+/* ── Footer ────────────────────────────────────────────────────────────── */
 
 footer {
   text-align: center;
@@ -107,7 +108,7 @@ footer p {
   font-family: 'Michroma', sans-serif;
 }
 
-
+/* ── Textbox ───────────────────────────────────────────────────────────── */
 
 .textbox {
   background-color: rgba(81, 70, 70, 0.3);
@@ -120,7 +121,7 @@ footer p {
   flex-direction: column;
 }
 
-
+/* ── Projects ──────────────────────────────────────────────────────────── */
 
 .projects-container {
   background: rgba(255, 255, 255, 0.02);
@@ -289,7 +290,7 @@ footer p {
   color: #000;
 }
 
-
+/* Loading state */
 .loading-state {
   text-align: center;
   padding: 4rem 2rem;
@@ -310,7 +311,7 @@ footer p {
   to { transform: rotate(360deg); }
 }
 
-
+/* ── Modal ─────────────────────────────────────────────────────────────── */
 
 .modal-overlay {
   position: fixed;
@@ -392,7 +393,7 @@ footer p {
   border-color: rgb(255, 242, 0);
 }
 
-
+/* ── Resume ────────────────────────────────────────────────────────────── */
 
 .resume-container {
   display: grid;
@@ -500,7 +501,7 @@ footer p {
   cursor: default;
 }
 
-
+/* ── About ─────────────────────────────────────────────────────────────── */
 
 .about-container {
   display: flex;
@@ -522,7 +523,7 @@ footer p {
   flex-shrink: 0;
 }
 
-
+/* ── Tech stack ────────────────────────────────────────────────────────── */
 
 .tech-stack {
   display: flex;
@@ -582,6 +583,7 @@ footer p {
   letter-spacing: 2px;
 }
 
+/* ── Contact form ──────────────────────────────────────────────────────── */
 
 .form-container {
   max-width: 500px;
@@ -664,13 +666,13 @@ footer p {
   margin-bottom: 1rem;
 }
 
-
+/* ── Utilities ─────────────────────────────────────────────────────────── */
 
 .hidden {
   display: none;
 }
 
-
+/* ── Animations ────────────────────────────────────────────────────────── */
 
 @keyframes fadeInUp {
   from { opacity: 0; transform: translateY(20px); }
@@ -687,7 +689,7 @@ footer p {
   to   { opacity: 1; transform: translateY(0); }
 }
 
-
+/* ── Responsive ────────────────────────────────────────────────────────── */
 
 @media (max-width: 850px) {
   .resume-container {
@@ -731,7 +733,7 @@ footer p {
   }
 }
 
-
+/* ── Print ─────────────────────────────────────────────────────────────── */
 
 @media print {
   nav, footer {
