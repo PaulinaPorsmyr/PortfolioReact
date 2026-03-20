@@ -2,7 +2,7 @@ export default function About() {
   return (
     <main>
       <div className="about-container">
-        <img src="/img/bild.jpg" alt="Paulina" className="profile-pic-side" />
+        <img src="/PortfolioReact/img/bild.jpg" alt="Paulina" className="profile-pic-side" />
 
         <section className="projects-container">
           <header className="projects-header">
