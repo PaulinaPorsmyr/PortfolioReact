@@ -21,9 +21,9 @@ const featuredProjects = [
   {
     id: 'portfolio',
     name: 'Portfolio Website',
-    description: 'This very website! Built to showcase my journey as a developer, focusing on clean UI/UX and modern CSS techniques like Flexbox and Grid.',
+    description: 'Features React Router for navigation, dynamic GitHub repo fetching, CV data loaded from JSON, and a modal-driven project showcase. Deployed automatically via GitHub Actions.',
     tags: ['HTML/CSS', 'JavaScript', 'React'],
-    github: 'https://github.com/PaulinaPorsmyr/Portfolio',
+    github: 'https://github.com/PaulinaPorsmyr/PortfolioReact',
     image: '/PortfolioReact/img/Printscreen.png'
   }
 ]
